@@ -1,4 +1,4 @@
-package ua.edu.ucu.Lab8;
+package ua.edu.ucu.Lab8
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
