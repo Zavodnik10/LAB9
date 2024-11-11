@@ -5,6 +5,6 @@ POST https://oop-course.herokuapp.com/api/v1/user
 Content-Type: application/json
 
 {
-  "email": "oleksii.mytnyk@ucu.edu.ua",
-  "dob": "2004-01-30"
+  "email": "zavodnik.pn@ucu.edu.ua",
+  "dob": "2005-03-24"
 }

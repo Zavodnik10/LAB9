@@ -10,10 +10,10 @@ import java.util.List;
 @Configuration
 public class AppUserConfig {
     private static final AppUser USER_FIRST =
-            new AppUser("ivan.shevchenko@ucu.edu.ua",
+            new AppUser("zavodnik.pn@ucu.edu.ua",
                     LocalDate.of(2003, 2, 2));
     private static final AppUser USER_SECOND =
-            new AppUser("klym.yaroslav@ucu.edu.ua",
+            new AppUser("vlad.pn@ucu.edu.ua",
                     LocalDate.of(2004, 4, 14));
 
     @Bean
