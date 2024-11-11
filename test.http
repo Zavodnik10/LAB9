@@ -1,0 +1,10 @@
+GET https://oop-course.herokuapp.com/api/v1/user
+
+###
+POST https://oop-course.herokuapp.com/api/v1/user
+Content-Type: application/json
+
+{
+  "email": "zavodnik.pn@ucu.edu.ua",
+  "dob": "2005-03-24"
+}
