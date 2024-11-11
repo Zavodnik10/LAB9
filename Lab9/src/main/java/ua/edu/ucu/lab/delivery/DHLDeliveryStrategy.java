@@ -1,4 +1,4 @@
-package ua.edu.ucu.lab.delivery
+package ua.edu.ucu.lab.delivery;
 
 import ua.edu.ucu.lab.item.Item;
 
